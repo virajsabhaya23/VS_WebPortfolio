@@ -13,15 +13,14 @@ export default function AboutMe(props) {
 
   const SCREEN_CONSTSANTS = {
     description:
-      "Full stack web and mobile developer with background knowledge of MERN stacks with redux, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.",
+      "Junior at UT Arlington majoring in Computer Science. I am interested in web and mobile app development and am exploring Artificial Intelligence, Deep Learning, and ML. I am a member and an Offcer of the Engineering Student Council at UTA.",
     highlights: {
       bullets: [
         "Full Stack web and mobile development",
         "Interactive Front End as per the design",
-        "React and React Native",
+        "Advance Java",
         "Redux for State Mnanagement",
-        "Building REST API",
-        "Managing database",
+        // "Building REST API",
       ],
       heading: "Here are a Few Highlights:",
     },

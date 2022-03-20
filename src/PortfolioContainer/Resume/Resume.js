@@ -176,11 +176,11 @@ const Resume = (props) => {
     <div className="resume-screen-container" key="interests">
       <ResumeHeading
         heading="Teaching"
-        description="Apart from being a tech enthusiast and a code writer, i also love to teach people what i know simply because i believe in sharing."
+        description="Apart from being a tech enthusiast , I also love to teach people what I know simply because I believe in sharing. I love teaching Math."
       />
       <ResumeHeading
-        heading="Music"
-        description="Listening to soothing music is something i can never compromise with, skimming through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on."
+        heading="Badminton"
+        description="Listening to soothing music along with playing Badminton is something I can never compromise with, skimming through Spotify's songs charts is at times the best stress reliever that I can get my hands on. My spotify is vi725_s."
       />
       {/* <ResumeHeading
         heading="Competitive Gaming"
