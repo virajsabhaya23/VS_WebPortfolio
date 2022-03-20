@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2df799579e2f6e71f862",
+    "revision": "876759c8e2b88146fe11",
     "url": "/VS_WebPortfolio/static/css/main.8b9104a0.chunk.css"
   },
   {
-    "revision": "2df799579e2f6e71f862",
-    "url": "/VS_WebPortfolio/static/js/main.2df79957.chunk.js"
+    "revision": "876759c8e2b88146fe11",
+    "url": "/VS_WebPortfolio/static/js/main.876759c8.chunk.js"
   },
   {
     "revision": "266190d1fb51ad12d0a4",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/VS_WebPortfolio/static/media/Poppins-Regular.8b6af8e5.ttf"
   },
   {
-    "revision": "a3e0b5f427803a187c1b62c5919196aa",
-    "url": "/VS_WebPortfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
-  },
-  {
     "revision": "4cdacb8f89d588d69e8570edcbe49507",
     "url": "/VS_WebPortfolio/static/media/Poppins-SemiBold.4cdacb8f.ttf"
+  },
+  {
+    "revision": "a3e0b5f427803a187c1b62c5919196aa",
+    "url": "/VS_WebPortfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
   },
   {
     "revision": "544fa4f2678a8285eb88b8dfe503c90c",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/VS_WebPortfolio/static/media/work-history.a59c5d12.svg"
   },
   {
-    "revision": "03c4a214521537842b66f030ef28bc3e",
+    "revision": "8729860944d36c65876a5a8446a1a278",
     "url": "/VS_WebPortfolio/index.html"
   }
 ];
