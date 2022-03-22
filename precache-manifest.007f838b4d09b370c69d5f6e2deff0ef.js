@@ -1,35 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "876759c8e2b88146fe11",
-    "url": "/VS_WebPortfolio/static/css/main.8b9104a0.chunk.css"
+    "revision": "fc8b1f99878a09923a1d",
+    "url": "/VS_WebPortfolio/static/css/main.6c0b643d.chunk.css"
   },
   {
-    "revision": "876759c8e2b88146fe11",
-    "url": "/VS_WebPortfolio/static/js/main.876759c8.chunk.js"
+    "revision": "fc8b1f99878a09923a1d",
+    "url": "/VS_WebPortfolio/static/js/main.fc8b1f99.chunk.js"
   },
   {
-    "revision": "266190d1fb51ad12d0a4",
-    "url": "/VS_WebPortfolio/static/js/1.266190d1.chunk.js"
+    "revision": "b3be8a9b1cc833812d75",
+    "url": "/VS_WebPortfolio/static/js/1.b3be8a9b.chunk.js"
   },
   {
-    "revision": "a0e43bc28f09da1539be",
-    "url": "/VS_WebPortfolio/static/css/2.475280ae.chunk.css"
+    "revision": "d54625fc76c80473c01a",
+    "url": "/VS_WebPortfolio/static/css/2.1dbebbac.chunk.css"
   },
   {
-    "revision": "a0e43bc28f09da1539be",
-    "url": "/VS_WebPortfolio/static/js/2.a0e43bc2.chunk.js"
+    "revision": "d54625fc76c80473c01a",
+    "url": "/VS_WebPortfolio/static/js/2.d54625fc.chunk.js"
   },
   {
-    "revision": "29ebda799286cfb15e32",
-    "url": "/VS_WebPortfolio/static/js/runtime~main.29ebda79.js"
+    "revision": "1a6bca7d343086b3b4d1",
+    "url": "/VS_WebPortfolio/static/js/runtime~main.1a6bca7d.js"
   },
   {
     "revision": "4325eb0f34548b9f7cc425c36f268f96",
     "url": "/VS_WebPortfolio/static/media/mailz.4325eb0f.jpeg"
-  },
-  {
-    "revision": "f61a4eb27371b7453bf5b12ab3648b9e",
-    "url": "/VS_WebPortfolio/static/media/Poppins-Medium.f61a4eb2.ttf"
   },
   {
     "revision": "8b6af8e5e8324edfd77af8b3b35d7f9c",
@@ -40,12 +36,16 @@ self.__precacheManifest = [
     "url": "/VS_WebPortfolio/static/media/Poppins-SemiBold.4cdacb8f.ttf"
   },
   {
-    "revision": "a3e0b5f427803a187c1b62c5919196aa",
-    "url": "/VS_WebPortfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
+    "revision": "f61a4eb27371b7453bf5b12ab3648b9e",
+    "url": "/VS_WebPortfolio/static/media/Poppins-Medium.f61a4eb2.ttf"
   },
   {
     "revision": "544fa4f2678a8285eb88b8dfe503c90c",
     "url": "/VS_WebPortfolio/static/media/Poppins-ExtraBold.544fa4f2.ttf"
+  },
+  {
+    "revision": "a3e0b5f427803a187c1b62c5919196aa",
+    "url": "/VS_WebPortfolio/static/media/Poppins-Bold.a3e0b5f4.ttf"
   },
   {
     "revision": "f6ea751e936ade6edcd03a26b8153b4a",
@@ -68,6 +68,18 @@ self.__precacheManifest = [
     "url": "/VS_WebPortfolio/static/media/ProfilePic.ac25f302.png"
   },
   {
+    "revision": "619f986b18047a45b496996a1ff97589",
+    "url": "/VS_WebPortfolio/static/media/advanceJava.619f986b.png"
+  },
+  {
+    "revision": "0d0f18821c417f52911079881c799801",
+    "url": "/VS_WebPortfolio/static/media/automationPython.0d0f1882.png"
+  },
+  {
+    "revision": "190493e2f5ac2cb58d499806c4724592",
+    "url": "/VS_WebPortfolio/static/media/certificate.190493e2.svg"
+  },
+  {
     "revision": "f17b17eaf6cf60ec29b97c78afd4edbf",
     "url": "/VS_WebPortfolio/static/media/education.f17b17ea.svg"
   },
@@ -88,7 +100,7 @@ self.__precacheManifest = [
     "url": "/VS_WebPortfolio/static/media/work-history.a59c5d12.svg"
   },
   {
-    "revision": "8729860944d36c65876a5a8446a1a278",
+    "revision": "0dc65c49d0d3e1bb206a184902413a0b",
     "url": "/VS_WebPortfolio/index.html"
   }
 ];
