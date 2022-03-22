@@ -48,6 +48,7 @@ const Resume = (props) => {
     { label: "Work History", logoSrc: "work-history.svg" },
     { label: "Programming Skills", logoSrc: "programming-skills.svg" },
     { label: "Projects", logoSrc: "projects.svg" },
+    { label: "Certifications", logoSrc: "certificate.svg" },
     { label: "Interests", logoSrc: "interests.svg" },
   ];
 
@@ -170,6 +171,25 @@ const Resume = (props) => {
           toDate={projectsDetails.duration.toDate}
         />
       ))}
+    </div>,
+
+    /* CERTIFICATE */
+    <div className="resume-screen-container" key="interests">
+      <ResumeHeading
+        heading="Advance Java"
+        // description="Apart from being a tech enthusiast , I also love to teach people what I know simply because I believe in sharing. I love teaching Math."
+      />
+      {/* <img src="/Users/virajsabhaya/Library/CloudStorage/OneDrive-UniversityofTexasatArlington/Documents/MyPersonalProject/VS_WebPortFolio/client/src/assets/Resume/advanceJava.png" /> */}
+      <a class="cetificate-link resume-heading-description" href="https://www.linkedin.com/learning/certificates/781c86a0a038804e3df8cb08f15b3a668f58a8ac24657134071a42e9052b93af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb7h%2BtnHHRampvG67OcYDVA%3D%3D">Click here to see credential.</a>
+      <ResumeHeading
+        heading="Python for Automation"
+        // description=""
+      />
+      <a class="certificate-link resume-heading-description" href="https://www.linkedin.com/learning/certificates/a69c7bfca4d9546b46b8c91a85233f44954264f24ff00681358f1dc1b04e9b24?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjJKst5XTTI2l5futMk58bg%3D%3D" >Click here to see credential.</a>
+      {/* <ResumeHeading
+        heading="Competitive Gaming"
+        description="I like to challenge my reflexes a lot while competing in football games, pushing the rank and having interactive gaming sessions excites me the most."
+      /> */}
     </div>,
 
     /* Interests */
